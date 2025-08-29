@@ -24,9 +24,9 @@ if (process.env.DEV) {
 			"odemon",
 			"serah_cross",
 			"steamshellkidd",
-			"kimpleclone",
-			"maki_doll",
-			"melodytranquil",
+			// "KimKittyBot",
+			// "maki_nori_",
+			"cherrydolllive",
 		],
 	};
 }
