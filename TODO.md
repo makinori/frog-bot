@@ -1,3 +1,4 @@
 -   Remove decompress-tarzx for something better
 -   Finish snakes and ladders
 -   Finish spirals
+-   yt-dlp should get updated regularly
