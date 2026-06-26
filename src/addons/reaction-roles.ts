@@ -75,6 +75,7 @@ const channelMessageReactionInfo: {
 				"🎧": "🎧 vc friends",
 				"🦋": "🦋 moths",
 				"📚": "📚 froggy academics",
+				"🏡": "🏡 boston area",
 			},
 		},
 	},
