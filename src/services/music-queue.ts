@@ -147,6 +147,8 @@ export class MusicQueue {
 
 		// remove all from db that doesnt exist anymore
 
+		// TODO: uuh the music queue was at 131M for some reason, not cleaning up
+
 		const dbAllAudioQueue = await Database.instance.musicAudioQueue.find(
 			{},
 		);
